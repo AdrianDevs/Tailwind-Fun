@@ -23,7 +23,15 @@ A project to explore using Tailwind
 - Material-UI for react components the implement Googles Material UI
 - Styled Components
 - Axios for API calls
-- Jest and Nock for Integration testing
+- Jest and Nock for Integration testing (does Jest need to be added to ESLint)
+- Jasmine for testing (does Jasmine need to be added to ESLint)
+- Jest, Enzyme, Testing Library and Cypress
+- Testing with
+  - Jest
+  - Enzym (Unit tests the component with its props and state)
+  - React Testing Library (Tests on the Dom)
+  - Snapshots
+  - Cypress (End to end testing in a browser)
 - ESLint for linting
 - Husky for triggering linting and testing on Git pre-commit and pre-push
 - Understand what the homepage URL is for and use it
