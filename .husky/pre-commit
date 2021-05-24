@@ -1,5 +1,6 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-echo "husky pre-commit hook"
+echo "Running Husky pre-commit hook"
+npx lint-staged
 # yarn test
