@@ -5,6 +5,7 @@ import './App.css';
 const App: React.FC = (): JSX.Element => {
   var bla;
   let blaa;
+  var what;
 
   return (
     <div className="App">
