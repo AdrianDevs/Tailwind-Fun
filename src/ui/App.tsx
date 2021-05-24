@@ -4,6 +4,7 @@ import './App.css';
 
 const App: React.FC = (): JSX.Element => {
   var blahaha;
+  var aahawa;
 
   return (
     <div className="App">
