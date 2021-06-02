@@ -1,6 +1,10 @@
-## Tailwind Fun
+# Tailwind Fun
 
 A project to explore using Tailwind
+
+## Based on
+
+[https://github.com/kylewetton/react-tailwind-boilerplate-2021](https://github.com/kylewetton/react-tailwind-boilerplate-2021?fbclid=IwAR3_Yj6bjMEM9NhXMbnl-oxdNA135b6h7OOQKdxo2iA9A1gS1W_mBSLKhRw)
 
 ## Features
 
@@ -12,9 +16,10 @@ A project to explore using Tailwind
 
 ## Future Features
 
+- React Hooks
 - Routing with React Router
-- Hooks
-- Linting with ESLint and Prettier
+- Linting with ESLint
+- Code formatting with Prettier
 - Commit and Push Hooks for Linting with Husky
 - Responsive Design
 - Domain Driven Architecture
